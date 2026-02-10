@@ -10,7 +10,15 @@ To build a classification model that can recognize emotions such as **happy, sad
 
 ---
 
-## 📂 Dataset
+## 📂 Dataset## 
+
+This project uses the **RAVDESS Emotional Speech Audio** dataset.
+
+Due to file size limitations, the dataset is not uploaded to this repository.
+
+You can download it from Kaggle:
+👉 https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
+
 **RAVDESS Emotional Speech Audio**
 
 - 24 professional actors (12 male, 12 female)
