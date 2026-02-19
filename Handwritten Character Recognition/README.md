@@ -1,13 +1,4 @@
-Perfect 👏 I’ll give you a **professional, internship-level README.md** for
-
-**Task 3 – Handwritten Character Recognition (CNN + MNIST)**
-
-You can copy and paste this directly into your
-`HandwrittenRecognition/README.md`
-
----
-
-# ✅ ⭐ README.md (Clean & Professional)
+# ✅ ⭐ README.md 
 
 ````markdown
 # ✍️ Handwritten Character Recognition using CNN
