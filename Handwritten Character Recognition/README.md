@@ -1,6 +1,3 @@
-# ✅ ⭐ README.md 
-
-````markdown
 # ✍️ Handwritten Character Recognition using CNN
 
 ## 📌 Project Overview
